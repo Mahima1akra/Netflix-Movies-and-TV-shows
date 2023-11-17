@@ -1,2 +1,4 @@
 # Netflix-Movies-and-TV-shows
 The dataset contains data from Netflix on movies and Tv shows from  2019. The dataset was part of a capstone project on AlmaBetter. Analysis is done along with using Machine learning model to make recommendations.
+Netflix is an American subscription video on-demand over-the-top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages.
+The dataset contains of tv shows and movies available as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine. The aim of this project is to analyze this dataset using clusters, NLP or anyother techniques inorder to provide a good user experience through a recommender system.
